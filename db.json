@@ -1,0 +1,121 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "jainanth kumar",
+      "email": "jayush@gmail.com",
+      "mobile": 9874563215,
+      "department": "CSE",
+      "semester": 1,
+      "city": "delhi"
+    },
+    {
+      "id": 2,
+      "name": "prajwal",
+      "email": "jayesh@gmail.com",
+      "mobile": 8596857458,
+      "department": "ECE",
+      "semester": 1,
+      "city": "mumbai"
+    },
+    {
+      "id": 3,
+      "name": "jeethesh kumar",
+      "email": "jeet@gmail.com",
+      "mobile": 9696858574,
+      "department": "EEE",
+      "semester": 1,
+      "city": "valsad"
+    },
+    {
+      "id": 4,
+      "name": "jackson",
+      "email": "jack@gmail.com",
+      "mobile": 8576898654,
+      "department": "CSE",
+      "semester": 2,
+      "city": "bangaluru"
+    },
+    {
+      "id": 5,
+      "name": "akashay",
+      "email": "akashay@gmail.com",
+      "mobile": 8585857475,
+      "department": "MICSE",
+      "semester": 2,
+      "city": "kashmir"
+    },
+    {
+      "id": 6,
+      "name": "kiran",
+      "email": "kiran7@gmail.com",
+      "mobile": 9657845789,
+      "department": "MIS",
+      "semester": 1,
+      "city": "mumbai"
+    },
+    {
+      "id": 7,
+      "name": "saranya",
+      "email": "saranyanotslept@gmail.com",
+      "mobile": 9632587412,
+      "department": "CSE",
+      "semester": 1,
+      "city": "sindh"
+    },
+    {
+      "id": 8,
+      "name": "prabhu",
+      "email": "prabhu@gmail.com",
+      "mobile": 8796321456,
+      "department": "EEE",
+      "semester": 2,
+      "city": "vizag"
+    },
+    {
+      "id": 9,
+      "name": "padhu",
+      "email": "pad@gmail.com",
+      "mobile": 9632548712,
+      "department": "MICSE",
+      "semester": 1,
+      "city": "kadapa"
+    },
+    {
+      "id": 10,
+      "name": "chaitu",
+      "email": "chaitu@gmail.com",
+      "mobile": 7896321568,
+      "department": "Fashion designing",
+      "semester": 2,
+      "city": "Vizag"
+    }
+  ],
+  "signup": [
+    {
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "mobile": 9658745692,
+      "password": "abcd",
+      "id": 1
+    },
+    {
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "mobile": 4152452414,
+      "password": "abcd",
+      "id": 2
+    },
+    {
+      "name": "sekhar",
+      "email": "sekhar@gmail.com",
+      "mobile": 8547963214,
+      "password": "sekhar",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
